@@ -8,4 +8,4 @@ elif inputLtr=="c" or inputLtr=="C":
   convertC = (inputNum *1.8) + 32
   print(f"{inputNum}° in Celsius is equivalent to {convertC}° Fahrenheit.")
 else:
-  print(f"Invalid unit({inputLtr})")
+  print(f"Invalid unit({inputLtr}).")
